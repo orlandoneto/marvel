@@ -5,13 +5,13 @@ Este projeto web é um teste onde listo os cards - Captain Marvel.
 ## Screenshots
 
 ### Browser List: 
-![nav](./docs/list.gif)
+![nav](./docs/list.png)
 
 ### Browser Details: 
-![nav](./docs/detail.gif)
+![nav](./docs/detail.png)
 
 ### Mobile Perspectiva: 
-![mobile](./docs/mobile.gif)
+![mobile](./docs/mobile.png)
 
 
 
